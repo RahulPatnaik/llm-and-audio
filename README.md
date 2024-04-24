@@ -1,4 +1,4 @@
-#AI Assistant with Audio Processing and Directions Module
+AI Assistant with Audio Processing and Directions Module
 
 This project consists of multiple Python modules that work together to create an AI assistant capable of audio processing and fetching directions between two locations using the Mapbox API.
 
